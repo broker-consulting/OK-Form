@@ -6,7 +6,7 @@
 // ================================================================
 export default {
   // --- Obecné ---
-  vysledkyEmail: "ok.form.monecois@gmail.com",  // kam směřuje tlačítko „Odeslat e-mailem"
+  vysledkyEmail: "tomas.novak@bcas.cz",         // kam směřuje tlačítko „Odeslat e-mailem"
   sberRezim: "email",                           // "email" = lístky chodí do sběrné schránky (GitHub Actions)
   nextcloudOdkaz: "",                           // nepovinný odkaz na sdílenou složku; prázdné = tlačítko skryto
   csvDelimiter: ";",                            // oddělovač CSV: "," nebo ";"
